@@ -2,5 +2,5 @@
 A simple container to run coffeelint
 
 ```
-docker run -tv ${PWD}:/project purplebabar/tarchon --info-only
+docker run -tv ${PWD}:/coffeelint purplebabar/coffeelint
 ```
