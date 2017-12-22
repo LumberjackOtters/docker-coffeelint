@@ -2,5 +2,5 @@
 A simple container to run coffeelint
 
 ```
-docker run -tv ${PWD}:/coffeelint purplebabar/coffeelint
+docker run -tv ${PWD}:/coffeelint purplebabar/coffeelint *yourOptionsAndYourFileName*
 ```
