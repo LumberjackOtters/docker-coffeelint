@@ -1,2 +1,6 @@
 # docker-coffeelint
-A simple contiainer to run coffeelint
+A simple container to run coffeelint
+
+```
+docker run -tv ${PWD}:/project purplebabar/tarchon --info-only
+```
